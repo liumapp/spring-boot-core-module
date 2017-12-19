@@ -1,4 +1,4 @@
-package com.liumapp.module.entity;
+package com.liumapp.module.core.entity;
 
 import org.springframework.stereotype.Component;
 

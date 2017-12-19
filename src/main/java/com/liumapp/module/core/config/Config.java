@@ -1,4 +1,4 @@
-package com.liumapp.module.config;
+package com.liumapp.module.core.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;
@@ -9,7 +9,6 @@ import org.springframework.context.annotation.ImportResource;
  * home-page:http://www.liumapp.com
  */
 @Configuration
-@ImportResource(locations = {"classpath:/spring/applicationContext*.xml"})
 public class Config {
 
 
