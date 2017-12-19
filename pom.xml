@@ -8,8 +8,8 @@
     <version>1.5.6.RELEASE</version>
   </parent>
 
-  <groupId>com.liumapp.module</groupId>
-  <artifactId>module-core</artifactId>
+  <groupId>com.liumapp.module.core</groupId>
+  <artifactId>spring-boot-core-module</artifactId>
   <version>v1.0.0</version>
   <packaging>jar</packaging>
 
